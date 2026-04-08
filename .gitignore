@@ -7,10 +7,11 @@
 .pub/
 build/
 
-# Firebase
+# Firebase — remova o comentário abaixo se usar flutterfire configure
+# (o arquivo gerado automaticamente contém chaves reais)
 google-services.json
 GoogleService-Info.plist
-lib/firebase_options.dart
+# lib/firebase_options.dart
 
 # Android
 android/local.properties
