@@ -1,0 +1,5 @@
+package com.f1show.f1show_mobile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
