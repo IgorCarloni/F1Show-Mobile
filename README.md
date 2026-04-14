@@ -6,7 +6,7 @@ Aplicativo Flutter que exibe resultados, classificações e estatísticas da Fó
 
 ## 📲 Download
 
-> **[⬇️ Baixar APK (Android)](https://github.com/IgorCarloni/F1Show-Mobile/releases/latest/download/app-release.apk)**
+> **[⬇️ Baixar APK (Android)](https://github.com/IgorCarloni/F1Show-Mobile/raw/main/releases/app-release.apk)**
 
 ---
 
