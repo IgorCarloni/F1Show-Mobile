@@ -49,7 +49,11 @@ Aplicativo Flutter que exibe resultados, classificações e estatísticas da Fó
 
 ## 🏗️ Arquitetura
 
+
+<img width="1100" height="976" alt="image" src="https://github.com/user-attachments/assets/8dfa0aa7-8da3-4752-8221-2dd5e6c22b68" />
+
 ```
+
 f1show_mobile/
 ├── lib/
 │   ├── models/
