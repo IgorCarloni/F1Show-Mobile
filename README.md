@@ -20,6 +20,17 @@ Aplicativo Flutter que exibe resultados, classificações e estatísticas da Fó
 | Classificação | `/standings` | Campeonato de pilotos e construtores por ano |
 | Piloto | `/driver/:id` | Estatísticas e histórico do piloto na temporada atual |
 
+### Screenshots
+
+<p align="center">
+  <img src="docs/WhatsApp Image 2026-04-14 at 21.35.49.jpeg" width="18%" />
+  <img src="docs/WhatsApp Image 2026-04-14 at 21.35.50.jpeg" width="18%" />
+  <img src="docs/WhatsApp Image 2026-04-14 at 21.35.50 (1).jpeg" width="18%" />
+  <img src="docs/WhatsApp Image 2026-04-14 at 21.35.50 (2).jpeg" width="18%" />
+  <img src="docs/WhatsApp Image 2026-04-14 at 21.35.50 (3).jpeg" width="18%" />
+  <img src="docs/WhatsApp Image 2026-04-14 at 21.35.51.jpeg" width="18%" />
+</p>
+
 ---
 
 ## 🛠️ Tecnologias
